@@ -12,7 +12,7 @@ Outputs:
 - Optional comparison with existing EOG channel
 - QA summary text files
 
-Author: (your name)
+Author: Moustafa Almanla
 """
 
 import os
